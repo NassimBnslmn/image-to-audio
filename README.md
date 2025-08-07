@@ -42,7 +42,4 @@ To run the Image Captioning and Text-to-Speech application locally, follow these
    ```
    The application will be accessible in your web browser at http://localhost:8501.
 
-## Contributions and Support
-
-Contributions, bug reports, and feature requests are welcome! If you encounter any issues or have suggestions for improvements, please open an issue on the GitHub repository. You can also reach out to the project maintainer, Alim Tleuliyev, at alim.tleuliyev@nu.edu.kz for further assistance or inquiries.
    
